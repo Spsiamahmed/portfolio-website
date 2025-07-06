@@ -47,3 +47,33 @@ This is the personal portfolio website of **SP Siam Ahmed**, a passionate and sk
 ---
 
 ## 📁 Folder Structure
+sp-siam-ahmed-portfolio/
+│
+├── index.html                  # Main homepage
+├── about.html                  # (Optional) Separate About page
+├── projects.html               # (Optional) Detailed project page
+├── contact.html                # (Optional) Contact page
+│
+├── assets/                     # All static assets go here
+│   ├── css/
+│   │   ├── style.css           # Main stylesheet
+│   │   └── responsive.css      # Media queries or extra styles
+│   │
+│   ├── js/
+│   │   ├── main.js             # Custom JS
+│   │   └── scroll.js           # (Optional) Smooth scroll / animation
+│   │
+│   ├── img/
+│   │   ├── profile.jpg         # Personal profile image
+│   │   ├── project1.png        # Project thumbnails
+│   │   └── ...                
+│   │
+│   └── icons/
+│       └── favicon.png         # Website favicon & icons
+│
+├── resume/                     # CV or resume file
+│   └── sp-siam-resume.pdf      
+│
+├── README.md                   # Project description for GitHub
+├── LICENSE                     # (Optional) MIT or other license
+└── .gitignore                  # GitHub ignore file
